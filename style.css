@@ -167,6 +167,8 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-color: rgb(215, 228, 250);
+  border-radius: 20px;
 }
 
 .section__pic-container {
